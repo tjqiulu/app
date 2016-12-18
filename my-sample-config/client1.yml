@@ -1,4 +1,4 @@
 testconfig:
   test1:
-    url:  "http://test.org.com"
+    url: "http://test.org.com"
   
